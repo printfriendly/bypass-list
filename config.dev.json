@@ -1,0 +1,5 @@
+{
+  "enableBlockChecker": true,
+  "checkBypassList": false,
+  "bypassList": []
+}
