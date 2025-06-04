@@ -1,6 +1,6 @@
 {
   "enableBlockChecker": true,
-  "checkBypassList": true,
+  "checkBypassList": false,
   "bypassList": [
     "sciencedirect.com",
     "kvwservice.eu",
